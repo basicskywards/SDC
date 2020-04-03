@@ -1,0 +1,2 @@
+hw3_IMU_Navigation
+-DCATKIN_DEVEL_PREFIX=/home/ndk/Documents/1semeter_4/self_driving_car/github_code/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ndk/Documents/1semeter_4/self_driving_car/github_code/catkin_ws/install -G Unix Makefiles
