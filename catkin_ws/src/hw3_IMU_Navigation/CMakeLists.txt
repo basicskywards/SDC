@@ -156,7 +156,7 @@ include_directories(
 #   ${catkin_LIBRARIES}
 # )
 
-add_executable(hw3_node src/hw3.cpp)
+add_executable(hw3_node src/IMU_Navigation.cpp)
 add_dependencies(hw3_node ${catkin_EXPORTED_TARGETS})
 target_link_libraries(hw3_node ${catkin_LIBRARIES})
 
