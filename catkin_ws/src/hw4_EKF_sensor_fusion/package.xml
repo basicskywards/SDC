@@ -2,7 +2,7 @@
 <package format="2">
   <name>hw4_0760816</name>
   <version>0.0.0</version>
-  <description>The ekf of sensor fusion practice package</description>
+  <description>The package of Extended Kalman Filter (EKF) for sensor fusion</description>
 
   <maintainer email="taurus.leo.tw@gmail.com">basic</maintainer>
   <!-- The *depend tags are used to specify dependencies -->
