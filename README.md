@@ -9,3 +9,6 @@
 
 ### Extended Kalman Filter (EKF) for sensor fusion
 - [EKF for IMU and ZED stereo camera sensor fusion](https://github.com/basicskywards/self_driving_cars/tree/master/catkin_ws/src/hw4_EKF_sensor_fusion)
+
+### Localization
+- [Download sensor bag ~ 2.1 GB](https://drive.google.com/drive/folders/1fMZ4XD3BQzqXYSsssa4DtcQ9kJGHKVn_?usp=sharing)
