@@ -1,4 +1,4 @@
-# Self-Driving Car
+# SDC
 
 ### Bayes Approach
 - [Probabilistic Bayes](https://github.com/basicskywards/self_driving_cars/tree/master/catkin_ws/src/hw2_Bayes_Approach)
